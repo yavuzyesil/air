@@ -10,13 +10,19 @@
 
 ---
 
-## This is a Weather Application.
+## To use this app you need to register _https://openweathermap.org_ this web site.
 
-## It is build on two part.
+## They will give you a api key and only you need to do is go to the this file: lib/apiKey/api_key.dart then put your api key between quotes.
 
-## - Coordination Part
+## All is done 👍
 
-## - City Part
+### This is a Weather Application.
+
+### It is build on two part.
+
+### - Coordination Part
+
+### - City Part
 
 ---
 
@@ -26,11 +32,11 @@
 
 ---
 
-## When application start app ask for permission to reach your location.
+When application start app ask for permission to reach your location.
 
-## If you give your permission to app.
+If you give your permission to app.
 
-## Application reach your coordinate and reach weather your area.
+Application reach your coordinate and reach weather your area.
 
 <br>
 
@@ -44,9 +50,9 @@
 
 <br>
 
-## As you can see there are two button up there.
+As you can see there are two button up there.
 
-## The right one go to the search screen
+The right one go to the search screen
 
 <br>
 
@@ -58,9 +64,9 @@
 
 ---
 
-## As you see there is a search field.
+As you see there is a search field.
 
-## You can click Get Weather button then it will give you city weather you typed.
+You can click Get Weather button then it will give you city weather you typed.
 
 <br>
 
@@ -88,9 +94,9 @@
 
 <br>
 
-## If you click the button on the left.
+If you click the button on the left.
 
-## It will reach your coordinate and it will give you the weather where you are.
+It will reach your coordinate and it will give you the weather where you are.
 
 <br>
 
